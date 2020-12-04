@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "743169999413",
+    "firebase_url": "https://terminalapp-13f99.firebaseio.com",
+    "project_id": "terminalapp-13f99",
+    "storage_bucket": "terminalapp-13f99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743169999413:android:4742a4db75fe62213ce77c",
+        "android_client_info": {
+          "package_name": "com.terminalApp.terminalApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743169999413-0po0vjvpf26u7vlci98i7gbf572s4j5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZkgISQHx67gNWcCR44U2BEyfN-Z8Z5Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743169999413-0po0vjvpf26u7vlci98i7gbf572s4j5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
